@@ -17,7 +17,6 @@ namespace Lesson_7_1oop
             }
             return new string(_input);
         }
-
         public string Encode(string input)
         {
             char[] _input = input.ToCharArray();
